@@ -1,0 +1,13 @@
+---
+name: Couchdb + Nodejs
+description: Couchdb + nodejs
+keywords: couchdb,nodejs
+type: Default
+documentation: ''
+images:
+- name: klaemo_couchdb_latest
+  source: klaemo/couchdb:latest
+  type: Default
+- name: dockerfile_nodejs
+  source: dockerfile/nodejs:latest
+  type: Default
